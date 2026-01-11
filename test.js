@@ -1,5 +1,5 @@
 console.log("Starting tests...");
-setInterval(() => {
+setTimeout(() => {
     console.log("Running tests for 3 second...");
 }, 3000);
-console.log("Tests setup complete.");
+console.log("Tests setup complete."); 
